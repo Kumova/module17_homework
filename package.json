@@ -1,0 +1,11 @@
+{
+  "name": "module17_homework",
+  "version": "1.0.0",
+  "main": "month.js",
+  "scripts": {
+     "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
